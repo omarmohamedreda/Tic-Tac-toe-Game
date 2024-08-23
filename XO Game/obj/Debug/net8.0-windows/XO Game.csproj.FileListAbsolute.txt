@@ -1,0 +1,48 @@
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.exe
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.deps.json
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.dll
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.pdb
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO_Game.Form1.resources
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.dll
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\refint\XO Game.dll
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.pdb
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\ref\XO Game.dll
+D:\my projects\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.exe
+D:\my projects\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.deps.json
+D:\my projects\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.runtimeconfig.json
+D:\my projects\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.dll
+D:\my projects\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.pdb
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO_Game.Form1.resources
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.csproj.GenerateResource.cache
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.AssemblyInfoInputs.cache
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.AssemblyInfo.cs
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.csproj.CoreCompileInputs.cache
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.dll
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\refint\XO Game.dll
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.pdb
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.genruntimeconfig.cache
+D:\my projects\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\ref\XO Game.dll
+D:\my projects\C# project\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.exe
+D:\my projects\C# project\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.deps.json
+D:\my projects\C# project\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.runtimeconfig.json
+D:\my projects\C# project\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.dll
+D:\my projects\C# project\XO game\XO Game\XO Game\bin\Debug\net8.0-windows\XO Game.pdb
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO_Game.Form1.resources
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.csproj.GenerateResource.cache
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.AssemblyInfoInputs.cache
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.AssemblyInfo.cs
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.csproj.CoreCompileInputs.cache
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.dll
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\refint\XO Game.dll
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.pdb
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\XO Game.genruntimeconfig.cache
+D:\my projects\C# project\XO game\XO Game\XO Game\obj\Debug\net8.0-windows\ref\XO Game.dll
